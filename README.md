@@ -1,3 +1,9 @@
+##NOTE
+precursor project of [mgfhub](https://github.com/DiogoCarapito/mgfhub) that was deployed with [pythonanywhere.com](https://www.pythonanywhere.com)
+
+
+
+
 # bi_indicadores
 
 ## Problema
@@ -67,4 +73,3 @@ pagina 'blog'
 pagina 'about'
   - [ ] escrever a pagina about
 
-15/12/2022 00:58 - 1238 linhas de codigo so far 
